@@ -1,0 +1,218 @@
+[
+  {
+    "Background":"Acolyte",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Con","Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Student of the Canon"],
+    "Skills":["Lore (Deity)"]
+  },
+  {
+    "Background":"Acrobat",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Str","Dex"],
+    "Ability_Free":1,
+    "Skill_Feats":["Steady Balance"],
+    "Skills":["Lore (Circus)"]
+  },
+  {
+    "Background":"Animal Whisperer",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Wis","Cha"],
+    "Ability_Free":1,
+    "Skill_Feats":["Train Animal"],
+    "Skills":["Lore (Animal)"]
+  },
+  {
+    "Background":"Barkeep",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Con","Cha"],
+    "Ability_Free":1,
+    "Skill_Feats":["Hobnobber"],
+    "Skills":["Lore (Alcohol)"]
+  },
+  {
+    "Background":"Blacksmith",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Str","Int"],
+    "Ability_Free":1,
+    "Skill_Feats":["Specialty Crafting (blacksmithing)"],
+    "Skills":["Lore (Smithing)"]
+  },
+  {
+    "Background":"Criminal",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Dex","Int"],
+    "Ability_Free":1,
+    "Skill_Feats":["Experienced Smuggler"],
+    "Skills":["Lore (Underworld)"]
+  },
+  {
+    "Background":"Entertainer",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Dex","Cha"],
+    "Ability_Free":1,
+    "Skill_Feats":["Fascinating Performance"],
+    "Skills":["Lore (Entertainment)"]
+  },
+  {
+    "Background":"Farmhand",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Con","Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Assurance (Athletics)"],
+    "Skills":["Lore (Farming)"]
+  },
+  {
+    "Background":"Gladiator",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Str","Cha"],
+    "Ability_Free":1,
+    "Skill_Feats":["Fascinating Performance"],
+    "Skills":["Lore (Gladiator)"]
+  },
+  {
+    "Background":"Hunter",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Dex","Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Survey Wildlife"],
+    "Skills":["Lore (Hunting)"]
+  },
+  {
+    "Background":"Laborer",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Str","Con"],
+    "Ability_Free":1,
+    "Skill_Feats":["Robust Recovery"],
+    "Skills":["Lore (Labor)"]
+  },
+  {
+    "Background":"Merchant",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Int","Cha"],
+    "Ability_Free":1,
+    "Skill_Feats":["Bargain Hunter"],
+    "Skills":["Lore (Mercantile)"]
+  },
+  {
+    "Background":"Noble",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Int","Cha"],
+    "Ability_Free":1,
+    "Skill_Feats":["Courtly Grace"],
+    "Skills":["Lore (Nobility)"]
+  },
+  {
+    "Background":"Nomad",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Con", "Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Assurance (Survival)"],
+    "Skills":["Lore (choose terrain)"]
+  },
+  {
+    "Background":"Sailor",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Int","Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Assurance (Arcana)","Assurance (Nature)","Assurance (Occultism)","Assurance (Religion)"],
+    "Skills":["Lore (Deity)"]
+  },
+  {
+    "Background":"Scout",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Dex","Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Forager"],
+    "Skills":["Lore (Scouting)"]
+  },
+  {
+    "Background":"Street Urchin",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Dex","Int"],
+    "Ability_Free":1,
+    "Skill_Feats":["Pickpocket"],
+    "Skills":["Lore (Underworld)"]
+  },
+  {
+    "Background":"Warrior",
+    "Source":"Core",
+    "Description":"",
+    "Ability_Boosts":["Str","Con"],
+    "Ability_Free":1,
+    "Skill_Feats":["Quick Repair"],
+    "Skills":["Lore (Warfare)"]
+  },
+  {
+    "Background":"Budding Osirionologist",
+    "Source":"Doomsday Dawn",
+    "Description":"",
+    "Ability_Boosts":["dex","Int"],
+    "Ability_Free":1,
+    "Skill_Feats":["Terrain Stalker (rubble)"],
+    "Skills":["Lore (Ancient Osirion)"]
+  },
+  {
+    "Background":"Esoteric Scion",
+    "Source":"Doomsday Dawn",
+    "Description":"",
+    "Ability_Boosts":["Int","Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Quick Identifier"],
+    "Skills":["Lore (Esoteric Order)"]
+  },
+  {
+    "Background":"Family Friend",
+    "Source":"Doomsday Dawn",
+    "Description":"",
+    "Ability_Boosts":["Cha","Int"],
+    "Ability_Free":1,
+    "Skill_Feats":["Hobnobber"],
+    "Skills":["Lore (Nobility)"]
+  },
+  {
+    "Background":"Goblin Renegade",
+    "Source":"Doomsday Dawn",
+    "Description":"",
+    "Ability_Boosts":["Dex","Cha"],
+    "Ability_Free":1,
+    "Skill_Feats":["Quick Repair"],
+    "Skills":["Lore (Criminal)"]
+  },
+  {
+    "Background":"Mind Quake Survivor",
+    "Source":"Doomsday Dawn",
+    "Description":"",
+    "Ability_Boosts":["Con","Wis"],
+    "Ability_Free":1,
+    "Skill_Feats":["Dubious Knowledge"],
+    "Skills":["Lore (Dominion of the Black)"]
+  },
+  {
+    "Background":"Pathfinder Hopeful",
+    "Source":"Doomsday Dawn",
+    "Description":"",
+    "Ability_Boosts":["Str","Int"],
+    "Ability_Free":1,
+    "Skill_Feats":["Additional Lore Feat"],
+    "Skills":["Lore (Pathfinder Society)"]
+  }
+]

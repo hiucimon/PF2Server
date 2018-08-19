@@ -1,0 +1,114 @@
+[
+  {
+    "Ancestry": "Dwarf",
+    "Description": "Dwarves are a short, stocky people who are often stubborn, fierce, and devoted",
+    "Speed":20,
+    "Size":"Medium",
+    "Hit_Points":10,
+    "Languages":["Common","Dwarf"],
+    "Select_Languages":0,
+    "Intelligence_Bonus_Languages":["Giant","Gnome","Goblin","Orc","Terran","Undercommon"],
+    "Vision":"Darkvision",
+    "Traits":["Dwarf","Humanoid","Unburdened"],
+    "Ability_Boosts": [
+      "Con",
+      "Wis"
+    ],
+    "Ability_Free": 1,
+    "Ability_Flaws": [
+      "Cha"
+    ]
+  },
+  {
+    "Ancestry": "Elf",
+    "Description": "Elves are a tall, slender, long-lived people whose culture peaked long ago",
+    "Speed":30,
+    "Size":"Medium",
+    "Hit_Points":6,
+    "Languages":["Common","Elven"],
+    "Select_Languages":0,
+    "Intelligence_Bonus_Languages":["Celestial","Draconic","Gnoll","Gnomish","Goblin","Orcish","Sylvin"],
+    "Vision":"Low-Light",
+    "Traits":["Elf","Humanoid"],
+    "Ability_Boosts": [
+      "Dex", "Int"
+    ],
+    "Ability_Free": 1,
+    "Ability_Flaws": ["Con"
+    ]
+  },
+  {
+    "Ancestry": "Gnome",
+    "Description": "Gnomes are a short, slight, mercurial people who crave change and excitement",
+    "Speed":20,
+    "Size":"Small",
+    "Hit_Points":8,
+    "Languages":["Common","Gnomish","Sylvan"],
+    "Select_Languages":0,
+    "Intelligence_Bonus_Languages":["Draconic","Dwarven","Elven","Goblin","Jotun","Prcish"],
+    "Vision":"Low-Light",
+    "Traits":["Gnome","Humanoid"],
+    "Ability_Boosts": [ "Con", "Cha"
+    ],
+    "Ability_Free": 1,
+    "Ability_Flaws": [ "Str"
+    ]
+  }
+,
+  {
+    "Ancestry": "Goblin",
+    "Description": "Goblins are a short, scrappy, energetic people who have spent milennia maligned and feared",
+    "Speed":25,
+    "Size":"Small",
+    "Hit_Points":6,
+    "Languages":["Common","Goblin"],
+    "Select_Languages":0,
+    "Intelligence_Bonus_Languages":["Draconic","Dwarven","Gnoll","Gnomish","Halfling","Orcish"],
+    "Vision":"Darkvision",
+    "Traits":["Goblin","Humanoid"],
+    "Ability_Boosts": [ "Dex", "Cha"
+    ],
+    "Ability_Free": 1,
+    "Ability_Flaws": [ "Wis"
+    ]
+  }
+,
+  {
+    "Ancestry": "Halfling",
+    "Description": "Halflings are a short, adaptable people who exhibit remarkable curiosity and humor",
+    "Speed":25,
+    "Size":"Small",
+    "Hit_Points":6,
+    "Languages":["Common","Halfling"],
+    "Select_Languages":0,
+    "Intelligence_Bonus_Languages":["Dwarven","Elven","Gnomish","Goblin"],
+    "Vision":"Normal",
+    "Traits":["Halfling","Humanoid"],
+    "Ability_Boosts": [ "Dex", "Wis"
+    ],
+    "Ability_Free": 1,
+    "Ability_Flaws": [ "Str"
+    ]
+  }
+,
+  {
+    "Ancestry": "Human",
+    "Description": "Humans are incredibly diverse in terms of everything from their body to their perspective and personalities",
+    "Speed":25,
+    "Size":"Medium",
+    "Hit_Points":8,
+    "Languages":["Common"],
+    "Select_Languages":1,
+    "Intelligence_Bonus_Languages":["*common*"],
+    "Vision":"Normal",
+    "Traits":["Human","Humanoid"],
+    "Ability_Boosts": [
+    ],
+    "Ability_Free": 2,
+    "Ability_Flaws": [
+    ]
+  }
+
+
+
+]

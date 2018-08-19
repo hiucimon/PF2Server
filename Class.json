@@ -1,0 +1,74 @@
+[
+  {
+    "Class":"Alchemist",
+    "Description":"The Alchemist throws alchemical bombs and drinks concoctions of his own making during combat",
+    "Key_Ability_Choice":["Int"],
+    "Secondary_Abilities":["Con","Dex"]
+  },
+  {
+    "Class":"Barbarian",
+    "Description":"The barbarian flies into a rage on the battlefield, smashing foes with abandon",
+    "Key_Ability_Choice":["Str"],
+    "Secondary_Abilities":["Con","Dex"]
+  },
+  {
+    "Class":"Bard",
+    "Description":"Performance and secrets of the occult enable the bard to distract foes and inspire allies",
+    "Key_Ability_Choice":["Cha"],
+    "Secondary_Abilities":["Con","Dex"]
+  },
+  {
+    "Class":"Cleric",
+    "Description":"The cleric calls on the power of a diety to cast spells that can heal or harm foes",
+    "Key_Ability_Choice":["Wis"],
+    "Secondary_Abilities":["Cha","Con"]
+  },
+  {
+    "Class":"Druid",
+    "Description":"The druid uses the natural world's magic to bolster her and her allies' strength while calling pain down upon enemies",
+    "Key_Ability_Choice":["Wis"],
+    "Secondary_Abilities":["Con","Dex"]
+  },
+  {
+    "Class":"Fighter",
+    "Description":"The fighter is a master of weapons, martial techniques, and powerful attack combinations",
+    "Key_Ability_Choice":["Dex","Str"],
+    "Secondary_Abilities":["Con"]
+  },
+  {
+    "Class":"Monk",
+    "Description":"The monk spins the secret of matial arts into dazzling displays of battlefield prowess",
+    "Key_Ability_Choice":["Dex","Str"],
+    "Secondary_Abilities":["Con","Wis"]
+  },
+  {
+    "Class":"Paladin",
+    "Description":"The paladin is a champion of her deity who uses divine power to enhance her heroics and protect her allies",
+    "Key_Ability_Choice":["Str"],
+    "Secondary_Abilities":["Cha","Con"]
+  },
+  {
+    "Class":"Ranger",
+    "Description":"The ranger is a master of using his surroundings, including traps and animal allies, to harry enemies",
+    "Key_Ability_Choice":["Dex","Str"],
+    "Secondary_Abilities":["Con","Wis"]
+  },
+  {
+    "Class":"Rogue",
+    "Description":"The rogue is a multitalented master of skuldugery who strikes when enemies least expect it",
+    "Key_Ability_Choice":["Dex"],
+    "Secondary_Abilities":["Cha","Con"]
+  },
+  {
+    "Class":"Sorcerer",
+    "Description":"The sorcerer's magical might flows through her blood and manifests as fantastic spells and abilities",
+    "Key_Ability_Choice":["Cha"],
+    "Secondary_Abilities":["Dex","Con"]
+  },
+  {
+    "Class":"Wizard",
+    "Description":"The wizard is an eminent scholar whose reservoirs of arcane knowledge power his wonderous spells and abilities",
+    "Key_Ability_Choice":["Int"],
+    "Secondary_Abilities":["Dex","Con"]
+  }
+]
