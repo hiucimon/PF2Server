@@ -6,10 +6,26 @@ var classes=require("./Class.json")
 
 var http = require('http');
 var express = require('express');
+var fs = require('fs');
+var https = require('https');
+var privateKey  = fs.readFileSync('server-key.pem', 'utf8');
+var certificate = fs.readFileSync('server-crt.pem', 'utf8');
+var credentials = {key: privateKey, cert: certificate};
 var app = express();
 
+
 var httpServer = http.createServer(app);
+var httpsServer = https.createServer(credentials, app);
+
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+});
+
 httpServer.listen(18080);
+httpsServer.listen(10443);
+
 app.get('/', function (req, res) {
     res.header('Content-type', 'text/html');
     return res.end('<h1>Hello, Secure World!</h1>');
